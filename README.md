@@ -1,2 +1,5 @@
 # Executive-Summary
 for capstone project
+
+ENGO 500 – Executive Summary
+There are three control networks on the University of Calgary Campus that are used in multiple Survey Courses offered at the University.  One network is located in the ICT/MacEwan Hall courtyard. The second network runs along Collegiate Blvd NW and Collegiate Rd NW down to 24th Ave NW. The third network is located on the East side of the Ronald McDonald House on 24th Ave NW. It is known that there are inconsistencies within these survey control networks; thus, our group proposes to reconstruct these networks, connecting the various patches, by resurveying the entire area using GNSS and traditional survey methods. Completion of this project directly benefits the students and professors associated with the following courses: ENGO 333, ENGO 443, and ENGO 401. This project is also beneficial to students or professors outside the aforementioned courses wanting to calibrate survey equipment and conduct personal or educational research.
